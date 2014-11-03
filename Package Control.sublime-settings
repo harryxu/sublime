@@ -1,8 +1,21 @@
 {
 	"installed_packages":
 	[
+		"ColorPicker",
+		"DocBlockr",
 		"Emmet",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"IndentX",
+		"jQuery",
 		"JsFormat",
-		"Seti_UI"
+		"PhpNamespace",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-phplint",
+		"Theme - Cobalt2"
 	]
 }
