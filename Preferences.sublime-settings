@@ -1,12 +1,15 @@
 {
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
 	"font_face": "PT Mono",
-	"font_size": 21,
+	"font_size": 19,
 	"ignored_packages":
 	[
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter"
 	],
+	"show_encoding": true,
 	"tab_size": 4,
-	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

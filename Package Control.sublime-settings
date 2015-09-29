@@ -1,21 +1,39 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"Blade Snippets",
 		"ColorPicker",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
 		"Emmet",
+		"EncodingHelper",
 		"Git",
 		"GitGutter",
+		"HTML5",
 		"Indent XML",
 		"IndentX",
+		"Javascript Beautify",
 		"jQuery",
 		"JsFormat",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"LogView",
+		"Markdown Preview",
+		"Package Control",
 		"PhpNamespace",
+		"ReactJS",
+		"Sass",
 		"Seti_UI",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
-		"SublimeLinter-phplint",
-		"Theme - Cobalt2"
+		"SublimeLinter-phplint"
 	]
 }
